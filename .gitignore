@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -396,3 +397,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.idea/
+
+.DS_Store
+
+xcuserdata/
+
+**/native/build/
+.build/
+*.xcframework
+Pods/
+
+build/Firebase.zip
+build/FirebaseSdk/
+
+.gradle/
