@@ -1,0 +1,3 @@
+[submodule "macios/native/GoogleSignIn-iOS"]
+	path = macios/native/GoogleSignIn-iOS
+	url = https://github.com/google/GoogleSignIn-iOS.git
